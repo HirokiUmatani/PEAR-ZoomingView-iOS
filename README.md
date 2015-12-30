@@ -9,7 +9,7 @@ Full screen to display when touch the view .
 pod 'PEAR-ZoomingView-iOS'
 ```
 ### Demo Screen
-
+![Zooming view demo](http://pear.chat/image/zoomingDemo.gif)
 
 
 ### Usage
