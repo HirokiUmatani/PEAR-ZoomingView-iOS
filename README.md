@@ -55,6 +55,8 @@ _zoomingView.rightMargin = 20;
 [MIT](https://github.com/HirokiUmatani/PEAR-ZoomingView-iOS/blob/master/LICENSE)
 
 ### Author
-[GitHub](https://github.com/HirokiUmatani)
-[FaceBook](https://www.facebook.com/hiroki.umatani)
-[Twitter](https://twitter.com/pearchatHU)
+[GitHub](https://github.com/HirokiUmatani)  
+[CocoaPod](https://cocoapods.org/owners/4170)  
+[FaceBook](https://www.facebook.com/hiroki.umatani)  
+[Twitter](https://twitter.com/pearchatHU)  
+
