@@ -54,11 +54,11 @@
                                 </variation>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mEB-Fc-2Hb" customClass="ZoomingView">
-                                <rect key="frame" x="555" y="556" width="45" height="44"/>
+                                <rect key="frame" x="507" y="515" width="93" height="85"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="45" id="4e9-hx-fak"/>
-                                    <constraint firstAttribute="height" constant="44" id="aRs-NA-fCD"/>
+                                    <constraint firstAttribute="width" constant="93" id="4e9-hx-fak"/>
+                                    <constraint firstAttribute="height" constant="85" id="aRs-NA-fCD"/>
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YzA-er-PWI" customClass="ZoomingView">
